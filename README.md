@@ -15,5 +15,4 @@
 ## 使用技術
 **HTML/CSS/GitHub**
 ## 要爬蟲的資料與網站
-1. [網站連結]([https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000558/](https://www.youtube.com/](https://opendata.taichung.gov.tw/))
-
+1. [網站連結](https://opendata.taichung.gov.tw/)
