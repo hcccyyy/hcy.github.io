@@ -1,5 +1,5 @@
 # 專案介紹
-**這是展示我上網路爬蟲成果這一堂課的成果😆😆**
+**這是展示我上網路爬蟲成果這一堂課的成果**
 
 ## 網站連結
 [前往網站連結 ⛓️‍💥](https://hcccyyy.github.io/hcy.github.io/)
@@ -15,5 +15,5 @@
 ## 使用技術
 **HTML/CSS/GitHub**
 ## 要爬蟲的資料與網站
-1. [網站連結]([https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000558/](https://www.youtube.com/)
-2. [網站圖片]()
+1. [網站連結]([https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000558/](https://www.youtube.com/](https://opendata.taichung.gov.tw/))
+
